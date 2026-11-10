@@ -20,3 +20,8 @@ git remote add origin https://github.com/syedhabbas/CICD-Prod-v1.0.1.git
 git branch -M main
 git push -u origin main
 
+
+To check remote repository on github
+# git remote -v
+# git remote show origin
+

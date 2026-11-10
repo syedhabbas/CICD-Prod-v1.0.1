@@ -11,13 +11,13 @@ Steps Description
         javac --version | check java compiler
         # sudo apt search openjdk*
         # sudo apt update
-        # sudo apt install openjdk-25-jdk 
+        # sudo apt install openjdk-25-jdk
     -   If we are running an older java version, ubuntu may not use new version & we have 
-        to switch to new version by using alternative tool 
-        # sudo update-alternatives --config java 
+        to switch to new version by using alternative tool
+        # sudo update-alternatives --config java
         # sudo update-alternatives --config javac
         # java --version
-        # javac --version 
+        # javac --version
 
     -   We will install Jenkins on Master node only from Jenkins official website
     -   
