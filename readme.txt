@@ -20,5 +20,6 @@ Steps Description
         # javac --version
 
     -   We will install Jenkins on Master node only from Jenkins official website
-    -   
+    -   We will install Java updated version on Jenkins agent and Docker
+    
 
