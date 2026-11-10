@@ -1,0 +1,16 @@
+
+
+Environment is Production
+Docker HUB repository name 
+
+syedhabbas/k8s-html-prod-v1.0
+
+We will create an image 
+# docker build -t syedhabbas/k8s-html-app-v1 . --platform linux/amd64 
+
+Login to docker hub
+# docker login 
+
+Push above image to docker hub
+# docker push syedhabbas/k8s-html-app-v1
+
